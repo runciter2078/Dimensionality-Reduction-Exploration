@@ -120,5 +120,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, please feel free to open an issue in the repository or contact the project maintainer.
 
-**Repository URL:** [https://github.com/runciter2078/Dimensionality-Reduction-Exploration/tree/main](https://github.com/runciter2078/Dimensionality-Reduction-Exploration/tree/main)
+**Repository URL:** [https://github.com/runciter2078/Dimensionality-Reduction-Exploration](https://github.com/runciter2078/Dimensionality-Reduction-Exploration)
 ```
